@@ -1,0 +1,55 @@
+*
+{
+padding: 0;
+margin: 0;
+
+}
+
+body{
+background-color:rgb(218, 218, 218);
+background-repeat: no-repeat;
+background-size: 100%;
+position: relative;
+left: 450px;
+top: 300px;
+color: rgb(0, 233, 202);
+border-radius: 20%;
+/* display: flex;
+align-items: center;
+justify-content: center; */
+background-image: url("pexels-photo-235985.jpeg");
+background-repeat: no-repeat;
+height: 50vh;
+
+}
+
+h1{
+    transition: 0.8s ease;
+    font-size: 48px;
+    color:yellow;
+}
+h4{
+    font-size: 32px;
+    color: rgb(3, 108, 139);
+}
+#grpselect{
+    border-radius: 5px;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    background-color: rgb(19, 227, 255);
+    padding: 4px 10px;
+    font-size: 15px;
+}
+.test{
+    font-size: 30px;
+    color: rgb(238, 255, 0);
+    
+}
+.dropdowm{
+    color: yellow;
+    font-size: 23px;
+}
+.inputbg{
+    color: rgb(177, 174, 18);
+    font-size: 20px;
+}
